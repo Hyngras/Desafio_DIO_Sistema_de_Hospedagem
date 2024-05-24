@@ -1,0 +1,15 @@
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/bin/Debug/net7.0/DesafioProjetoHospedagem
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/bin/Debug/net7.0/DesafioProjetoHospedagem.deps.json
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/bin/Debug/net7.0/DesafioProjetoHospedagem.runtimeconfig.json
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/bin/Debug/net7.0/DesafioProjetoHospedagem.dll
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/bin/Debug/net7.0/DesafioProjetoHospedagem.pdb
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/obj/Debug/net7.0/DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/obj/Debug/net7.0/DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/obj/Debug/net7.0/DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/obj/Debug/net7.0/DesafioProjetoHospedagem.AssemblyInfo.cs
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/obj/Debug/net7.0/DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/obj/Debug/net7.0/DesafioProjetoHospedagem.dll
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/obj/Debug/net7.0/refint/DesafioProjetoHospedagem.dll
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/obj/Debug/net7.0/DesafioProjetoHospedagem.pdb
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/obj/Debug/net7.0/DesafioProjetoHospedagem.genruntimeconfig.cache
+/home/hyngrid/Área de Trabalho/VS Code/Cursos/DIO/Avanade - C#.Net/Desafios/DesafioProjetoHospedagem/obj/Debug/net7.0/ref/DesafioProjetoHospedagem.dll
